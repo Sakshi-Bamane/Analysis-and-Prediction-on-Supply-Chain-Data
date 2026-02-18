@@ -9,17 +9,23 @@ The model helps businesses identify high-risk orders in advance and take prevent
 ## 🎯 Objective
 
 ▪️Analyze historical delivery data
+
 ▪️Identify key factors contributing to delivery delays
+
 ▪️Build a machine learning model to predict late delivery risk
+
 ▪️Improve operational decision-making using data insights
 
 ## 🛠️ Tech Stack
 
 ▪️Python
-▪️Pandas
+
 ▪️NumPy
+
 ▪️Matplotlib / Seaborn
+
 ▪️Scikit-learn
+
 ▪️Jupyter Notebook
 
 ## 📊 Project Workflow
