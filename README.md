@@ -31,30 +31,45 @@ The model helps businesses identify high-risk orders in advance and take prevent
 ## 📊 Project Workflow
 
 1] Data Collection
+
 ▪️Loaded dataset for delivery records
 
 2] Data Cleaning
+
 ▪️Handled missing values
+
 ▪️Removed duplicates
+
 ▪️Corrected data types
 
 3] Exploratory Data Analysis (EDA)
+
 ▪️Identified patterns in delivery delays
+
 ▪️Visualized delay distribution
+
 ▪️Analyzed impact of features on late delivery
 
 4] Feature Engineering
+
 ▪️Selected important variables
+
 ▪️Encoded categorical features
+
 ▪️Normalized/Scaled data (if applied)
 
 5] Model Building
+
 ▪️Applied machine learning algorithm
+
 ▪️Trained model on historical data
 
 6] Model Evaluation
+
 ▪️Accuracy Score
+
 ▪️Confusion Matrix
+
 ▪️Precision / Recall / F1-Score
 
 ## 📈 Results
